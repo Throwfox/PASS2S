@@ -9,7 +9,8 @@ Implement Python on Data/files sequentially:
 3. generate_traffic_data_all_road.py
 4. csvraw2dataframe.py
 5. csv2npy.py
-#Implement the training process...
+   
+And then implement the training process...
 
 ### If you find this code helpful, feel free to cite our paper:
 ```
