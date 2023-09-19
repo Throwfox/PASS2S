@@ -4,11 +4,11 @@ This repository is the official implementation of [Periodic Attention-based Stac
 ### Guideline:
 #get .npy data
 Implement Python on Data/files sequentially:
-1 download_traffic_data.py
-2 traffic_xml_to_csv.py
-3 generate_traffic_data_all_road.py
-4 csvraw2dataframe.py
-5 csv2npy.py
+1. download_traffic_data.py
+2. traffic_xml_to_csv.py
+3. generate_traffic_data_all_road.py
+4. csvraw2dataframe.py
+5. csv2npy.py
 #Implement the training process...
 
 ### If you find this code helpful, feel free to cite our paper:
