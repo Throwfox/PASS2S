@@ -1,5 +1,5 @@
 # Periodic Attention-based Stacked Sequence to Sequence Framework
-This repository is the official implementation of [Periodic Attention-based Stacked Sequence to Sequence framework for long-term travel time prediction](https://www.sciencedirect.com/science/article/pii/S0950705122010693?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265875295&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM307246&utm_source=AC_), published in Knowledge-Based Systems. Feel free to contact me via this email (damon882046.c@nycu.edu.tw) if you have any problems.
+This repository is the official implementation of [Periodic Attention-based Stacked Sequence to Sequence framework for long-term travel time prediction](https://www.sciencedirect.com/science/article/pii/S0950705122010693?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=265875295&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM307246&utm_source=AC_), published in Knowledge-Based Systems. Feel free to contact me via this email (haodai@ufl.edu) if you have any problems.
 
 ### Guideline:
 get .npy data
